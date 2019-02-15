@@ -1,0 +1,147 @@
+------------------------------------------------------------------------------
+*CALL FOR DEMONSTRATIONS*
+
+Inaugural International Conference on
+Distributed Event-Based Systems (DEBS 2007)
+
+Toronto, Canada, June 20-22, 2007
+http://debs.msrg.toronto.edu
+
+------------------------------------------------------------------------------
+In cooperation with:  USENIX, IEEE and IEEE Computer Society, ACM (SIGSOFT)
+We acknowledge sponsorship from:  CA Labs (main event sponsor) and MiTACS
+------------------------------------------------------------------------------
+
+======
+Scope
+======
+
+The Inaugural International Conference on Distributed Event-Based Systems is
+following on the success of the previous five DEBS Workshops held from 2002 to
+2006 in companion with major conferences sponsored by IEEE and ACM such as
+ICDCS, ICSE, and SIGMOD/PODS.
+
+Event-based systems have been established in industry and research for many
+years.  They are now gaining increasing momentum as witnessed by current
+efforts in areas including event-driven architectures, business process
+management and modeling, Grid computing, Web services notifications, and
+message-oriented middleware.  Events represent asynchronous state transitions
+in the environment and event-based computing refers to the computational
+support and abstractions required to adequately manage and process events.
+
+
+=======================
+Call for Demonstrations
+=======================
+
+The conference will feature a *demo session*, in which researchers have the
+opportunity to demonstrate the real, working event-based systems they have
+built.  We invite demonstrations of event-based applications, frameworks, and
+algorithms that use the event-based paradigm in a new and innovative way.  The
+conference brings together research and industry in distributed event-based
+systems.  We explicitly encourage contributions from adjacent research
+communities and application fields that may use event-based approaches. 
+
+The demonstration session is a new and exciting way to showcase your
+applications and introduce new prototypes to the community.  The demo session
+will take place as an exhibit-style conference reception. 
+
+Each demo will be represented by up to 4 pages in the proceedings.  The paper
+reports on the presented research prototype and clearly identifies the
+original contributions and ideas demonstrated.  In addition to the paper, the
+authors are expected to prepare a poster and to perform a live software 
+demonstration on their own laptop.
+Any special requirements should be identified in the appendix of the paper.  
+
+
+===============
+Important Dates
+===============
+
+Paper Submission:           March 14, 2007
+Author Notification:        May 7, 2007
+Final Manuscript due:       May 28, 2007
+DEBS Conference:            June 20-22, 2007
+
+
+=====================
+Submission Guidelines
+=====================
+
+All papers must represent original and unpublished work that is not currently
+under review.  Each paper will be reviewed by at least three independent
+referees.  Papers will be evaluated according to their significance,
+originality, technical content, style, clarity, and relevance to the
+conference.  At least one author of each accepted paper is expected to attend
+the conference.
+
+Besides demonstration papers, the conference will also accept research papers
+and industry papers.  Submitted papers should clearly indicate their type.
+The conference proceedings will be published as part of the ACM International
+Proceedings Series and will be disseminated through the ACM Digital Library.
+
+The conference adopts a **double blind** review process, where neither authors
+nor reviewer know each others' identities.
+
+Demonstration papers must not exceed four pages.  The required format for the
+submission is the ACM SIG Proceedings Style.  The author(s) name(s) and
+address(es) must not appear in the body of the paper, and self-reference
+should be in the third person.  This is to facilitate a double-blind review
+process.  Please apply the ACM Computing Classification categories and terms.
+The ACM Computing Classification scheme can be found at
+http://www.acm.org/class/1998/.  The author kit containing the Latex templates
+for the required style can be found at:
+http://www.acm.org/sigs/pubs/proceed/template.html.  More detailed submission
+instructions will be posted at the conference web site.
+
+
+===================
+Conference Location
+===================
+
+The conference will be held at the University of Toronto, Canada.
+
+
+=================
+Program Committee
+=================
+
+Jean M. Bacon, University of Cambridge, UK
+Roger S. Barga, Microsoft Research Redmond, USA
+Tim Bass, SilkRoad, Inc., USA
+Sumeer Bhola, IBM Thomas J. Watson Research Center, USA
+Alejandro P. Buchmann, Darmstadt University of Technology, Germany
+Antonio Carzaniga, University of Lugano, Switzerland
+Ugur Cetintemel, Brown University, USA
+Gianpaolo Cugola, Politecnico di Milano, Italy
+Opher Etzion, IBM Research Laboratory in Haifa, Israel
+Ludger Fiege, Siemens, Germany
+Johannes Gehrke, Cornell University, USA
+Rachid Guerraoui, EPFL, Switzerland
+Ling Liu, Georgia Institute of Technology, USA
+Lakshmish Ramaswamy, University of Georgia, USA
+David Rosenblum, University College London, UK
+Kurt Rothermel, University of Stuttgart, Germany
+Karsten Schwan, Georgia Institute of Technology, USA
+Joe Sventek, University of Glasgow, UK
+Peter Triantafillou, University of Patras, Greece
+
+
+============
+Organization
+============
+
+General Chair
+  Hans-Arno Jacobsen, University of Toronto, Canada
+
+PC Chair
+  Gero Muehl, Berlin University of Technology, Germany
+
+Organizing Chair
+  Michael A. Jaeger, Berlin University of Technology, Germany
+
+Publicity Chair
+  Peter R. Pietzuch, Imperial College London, UK
+
+Demo Chair
+  Annika Hinze, University of Waikato, New Zealand

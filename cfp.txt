@@ -1,0 +1,216 @@
+------------------------------------------------------------------------------
+CALL FOR PAPERS
+
+Inaugural International Conference on
+Distributed Event-Based Systems (DEBS 2007)
+
+Toronto, Canada, June 20-22, 2007
+http://debs.msrg.toronto.edu
+
+------------------------------------------------------------------------------
+In cooperation with:
+            USENIX, IEEE and IEEE Computer Society, ACM SIGSOFT and ACM SIGMOD
+Sponsorship from: CA Labs (Main Sponsor), HP Labs (Silver Sponsor), and MiTACS
+------------------------------------------------------------------------------
+
+The Inaugural International Conference on Distributed Event-Based Systems is
+following on the success of the previous five DEBS Workshops held from 2002 to
+2006 in companion with major conferences sponsored by IEEE and ACM such as
+ICDCS, ICSE, and SIGMOD/PODS.
+
+Event-based systems have been established in industry and research for many
+years.  They are now gaining increasing momentum as witnessed by current
+efforts in areas including event-driven architectures, business process
+management and modeling, Grid computing, Web services notifications, and
+message-oriented middleware.  Events represent asynchronous state transitions
+in the environment and event-based computing refers to the computational
+support and abstractions required to adequately manage and process events.
+
+Continuing DEBS as an independent conference aims to satisfy this growing and
+interdisciplinary interest in event-based computing.  The objectives of the
+DEBS Conference are to provide a forum dedicated to the dissemination of
+original research, the discussion of practical insights, and the reporting on
+relevant experience relating to event-based computing previously scattered
+across several communities.
+
+The scope of the conference covers all topics relevant to event-based
+computing ranging from those discussed in related disciplines (e.g.,
+coordination, software engineering, peer-to-peer systems, Grid computing, and
+streaming databases), over domain-specific topics of event-based computing
+(e.g., workflow management systems, mobile computing, pervasive and ubiquitous
+computing, sensor networks, user interfaces, component integration, Web
+services, and embedded systems), to enterprise related topics (e.g.,
+enterprise application integration, real time enterprises, and Web services
+notifications).
+
+
+================
+Conference Scope
+================
+
+The topics addressed by the conference include, but are not limited to:
+
+  Models, Architectures, and Paradigms
+
+    * Event-driven architectures
+    * Complex event processing
+    * Basic interaction models
+      (publish/subscribe, register/notify, hybrids etc.)
+    * Event schemas and type systems
+    * Languages for event correlation and patterns, streaming and continuous
+      queries, and data fusion
+    * Performance modeling and prediction based on analytic approaches
+    * Design and programming methodologies (e.g., MDA-based approaches)
+    * Event-based business process management and modeling
+    * Experimental methodologies (e.g., design of simulations and experiments)
+    * Models for static and dynamic environments (e.g., client mobility
+      models, distribution of clients and their behavior)
+
+  Middleware Infrastructures for Event-Based Computing
+
+    * Federated event-based systems (e.g., scoping and transforming)
+    * Middleware for actuator and sensor networks
+    * Algorithms and protocols (e.g., data diffusion, content-based routing,
+      subscription merging, matching, pattern detection, etc.)
+    * Event dissemination based on peer-to-peer routing substrates
+    * Implementations of streaming queries, transformations, or correlation
+      engines
+    * Fault-tolerance, reliability, availability, and recovery
+    * Security issues (e.g., confidentiality, integrity, privacy, trust)
+    * (Self-)Management (e.g., reconfiguration, adaptation, and organization)
+    * Context and location awareness
+    * Mobility and resource-constrained device support
+
+  Applications, Experiences, and Requirements
+
+    * Use cases and applications of event-based systems
+    * Real-world application deployments using event-based middleware
+    * Domain-specific deployments of event-based systems
+    * Real-world data characterizing event-based applications
+    * Benchmarks, performance evaluations, and testbeds
+    * Seamless integration of event-based mechanisms into middleware platforms
+    * Application requirements for next-generation event-based solutions
+    * Relation to other architectures such as SOA
+    * Enterprise application integration
+    * Event-driven business process management
+      (e.g., using RFID in logistics and healthcare)
+    * Information logistics
+
+
+===============
+Important Dates
+===============
+
+Paper Submission:           March 14, 2007
+Author Notification:        May 7, 2007
+Final Manuscript due:       May 28, 2007
+DEBS Conference:            June 20-22, 2007
+
+
+===================
+Conference Location
+===================
+
+The conference will be held at the University of Toronto, Canada.
+
+
+=================
+Program Committee
+=================
+
+Jean M. Bacon, University of Cambridge, UK
+Roger S. Barga, Microsoft Research Redmond, USA
+Tim Bass, SilkRoad, Inc., USA
+Sumeer Bhola, IBM Thomas J. Watson Research Center, USA
+Alejandro P. Buchmann, Darmstadt University of Technology, Germany
+Antonio Carzaniga, University of Lugano, Switzerland
+Ugur Cetintemel, Brown University, USA
+Gianpaolo Cugola, Politecnico di Milano, Italy
+Juergen Dingel, Queen's University, Canada
+Opher Etzion, IBM Research Laboratory in Haifa, Israel
+Pascal Felber, University of Neuchatel, Switzerland
+Ludger Fiege, Siemens, Germany
+Felix Freiling, University of Mannheim, Germany
+Johannes Gehrke, Cornell University, USA
+Rachid Guerraoui, EPFL, Switzerland
+Ling Liu, Georgia Institute of Technology, USA
+Rene Meier, Trinity College Dublin, Ireland
+Amy Lynn Murphy, University of Lugano, Switzerland
+Lakshmish Ramaswamy, University of Georgia, USA
+David Rosenblum, University College London, UK
+Kurt Rothermel, University of Stuttgart, Germany
+Karsten Schwan, Georgia Institute of Technology, USA
+Joe Sventek, University of Glasgow, UK
+Peter Triantafillou, University of Patras, Greece
+Torben Weis, University of Duisburg, Germany
+Ivana Podnar Zarko, University of Zagreb, Croatia
+
+============
+Organization
+============
+
+General Chair
+  Hans-Arno Jacobsen, University of Toronto, Canada
+
+PC Chair
+  Gero Muehl, Berlin University of Technology, Germany
+
+Organizing Chair
+  Michael A. Jaeger, Berlin University of Technology, Germany
+
+Publicity Chair
+  Peter R. Pietzuch, Imperial College London, UK
+
+Demo Chair
+  Annika Hinze, University of Waikato, New Zealand
+
+
+=====================
+Submission Guidelines
+=====================
+
+All papers must represent original and unpublished work that is not currently
+under review.  Each paper will be reviewed by at least three independent
+referees.  Papers will be evaluated according to their significance,
+originality, technical content, style, clarity, and relevance to the
+conference.  At least one author of each accepted paper is expected to attend
+the conference.
+
+Three types of paper submissions will be accepted: research papers, industry
+papers, and demo papers.  Submitted papers should clearly indicate their type.
+Accepted papers will be published by ACM.
+
+The conference proceedings will be published as part of the ACM International
+Proceedings Series and will be disseminated through the ACM Digital Library.
+
+The conference adopts a **double blind** review process, where neither authors
+nor reviewer know each others' identities.
+
+Papers must not exceed the given number of pages for the respective paper type
+(see below).  The required format for the submission is the ACM SIG
+Proceedings Style.  The author(s) name(s) and address(es) must not appear in
+the body of the paper, and self-reference should be in the third person.  This
+is to facilitate a double-blind review process.  Please apply the ACM
+Computing Classification categories and terms.  The ACM Computing
+Classification scheme can be found at http://www.acm.org/class/1998/.  The
+author kit containing the Latex templates for the required style can be found
+at: http://www.acm.org/sigs/pubs/proceed/template.html.  More detailed
+submission instructions will be posted at the conference web site.
+
+Research Papers: (max. 12 pages)
+  A research paper describes new results that advance the state-of-the-art in
+  basic or applied research.  Short papers (max. 6 pages) presenting
+  work-in-progress are also welcome.
+
+Industry Papers: (max. 8 pages) 
+  An industry paper describes the design, the experience (in building,
+  deploying and running), or the performance of an industry system.  Commonly,
+  the majority of authors on the paper are from industry.  Product marketing
+  will not be accepted as paper.
+
+Demo Papers: (max. 4 pages)
+  A demo paper reports on an existing research prototype by clearly
+  identifying the original contributions and ideas demonstrated.  The authors
+  are expected to prepare a poster and perform a live software demonstration
+  on their own laptop during an exhibit-style conference reception.  Any
+  special requirements should be identified in the appendix of the paper.
